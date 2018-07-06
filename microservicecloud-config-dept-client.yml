@@ -38,7 +38,7 @@ eureka:
       
   #修改服务名称eureka中的服务信息
   instance:
-    instance-id: microservicecloud-dept8001
+    instance-id: microservicecloud-dept8001-dev
     prefer-ip-address: true     #访问路径可以显示IP地址 
    #info信息（微服务info信息（关于我们说明））
 info: 
@@ -81,7 +81,7 @@ eureka:
       
   #修改服务名称eureka中的服务信息
   instance:
-    instance-id: microservicecloud-dept8001
+    instance-id: microservicecloud-dept8001-test
     prefer-ip-address: true     #访问路径可以显示IP地址 
    #info信息（微服务info信息（关于我们说明））
 info: 
